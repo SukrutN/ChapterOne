@@ -67,4 +67,18 @@ No third-party libraries were utilized beyond the comprehensive suite of tools p
 
 For testing purposes, the app can be run on both Android and iOS platforms by using the Expo Go app, available on the Google Play Store and Apple App Store. This allows for a seamless testing experience across different devices.
 
+# Test Screenshots:
+
+Initial View
+![Screenshot_4350](https://github.com/SukrutN/ChapterOne/assets/93954184/aaafbf40-1f1c-40de-893e-7a1b3abfba9e)
+
+Adding Tasks
+![Screenshot_4351](https://github.com/SukrutN/ChapterOne/assets/93954184/6426e5bd-0306-4d3f-973f-241bf539f76c)
+
+Mark Task as Completed
+![Screenshot_4352](https://github.com/SukrutN/ChapterOne/assets/93954184/85937700-4e52-4e2c-8ba9-f1a13dae55d1)
+
+Delete Task
+![Screenshot_4353](https://github.com/SukrutN/ChapterOne/assets/93954184/bf018c27-cd6f-49f2-99f7-4ab837fd66a2)
+
 # Code Written By Sukrut Nadigotti
